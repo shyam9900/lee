@@ -7,7 +7,7 @@ curl -o "C:\Users\Public\Desktop\Fast Config VPS.exe" https://raw.githubusercont
 curl -o "C:\Users\Public\Desktop\EVKey Vietnamese Keyboard.exe" https://raw.githubusercontent.com/vongocbao/WindowsRDP/main/EVKey64.exe > out.txt 2>&1
 net user KENLIEPLAYS ken@lor23 /add >nul
 net localgroup administrators administrator /add >nul
-net user administrator /active:yes >nul
+net user KENLIEPLAYS /active:yes >nul
 diskperf -Y >nul
 sc config Audiosrv start= auto >nul
 sc start audiosrv >nul
