@@ -1,5 +1,5 @@
 # FREE-RDP
-FREE LIFETIME WINDOWS10 RDP 7GB RAM >> 2CORES >> 900-1200 MBPS INTERNET SPEED
+FREE LIFETIME WINDOWS 10 RDP 7GB RAM >> 2CORES >> 900-1200 MBPS INTERNET SPEED
 
 # USAGE
 1. Assume Windows Runners cannot listen to ports. I didn't bother trying and ngrok worked anyway. So, signup for an ngrok account.
