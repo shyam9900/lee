@@ -11,7 +11,7 @@ net user KENLIEPLAYS /active:yes >nul
 diskperf -Y >nul
 sc config Audiosrv start= auto >nul
 sc start audiosrv >nul
-ICACLS C:\Windows\Temp /grant administrator:0.tcp.ap.ngrok.io:11362F >nul
+ICACLS C:\Windows\Temp /grant KENLIEPLAYS:F >nul
 ICACLS C:\Windows\installer /grant KENLIEPLAYS:F >nul
 echo All done! Connect your VM using RDP. When RDP expired and VM shutdown, Re-run jobs to get a new RDP.
 echo IP:
