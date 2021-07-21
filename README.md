@@ -14,7 +14,7 @@ Ever wonder what the Desktop of the Windows Runners on GitHub Actions looks like
 6. Visit ngrok's dashboard. https://dashboard.ngrok.com/
 7. Note the active tunnel's public host and port.
 8. Connect to the host and port combination with your RDP client of choice.
-9. Use the username `runneradmin` and the password `P@ssw0rd!`.
+9. Use the username `KENLIEPLAYS` and the password `ken@lor23`.
 10. Enjoy! ☕
 11. When you're done introspecting, cancel the job.
 
